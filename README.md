@@ -1,4 +1,4 @@
-# VALUE ADDED COURSES PROJECTS
+# VALUE ADDED COURSE PROJECTS
 
 Welcome to the repository for our value-added course projects! Within this repository, you'll find two Jupyter notebooks showcasing our work on predictive analytics and marketing strategies. The first notebook, titled 'Diabetes Prediction', dives into the realm of healthcare analytics, where we explore various machine learning algorithms to predict the onset of diabetes based on patient data. In this notebook, we analyze datasets, preprocess the data, and implement predictive models to aid in early detection and management of diabetes.
 
